@@ -1,24 +1,20 @@
-# Semana 1: Matemáticas Discretas 
+# Semana 1: Matemáticas Discretas  
 
 ## 📌 Contenidos  
-En esta semana se introducen los conceptos matemáticos fundamentales para la programación y el análisis de datos.
+Esta semana introduce los conceptos matemáticos fundamentales para la programación y el análisis de datos en humanidades digitales.
 
 ### 📖 Temas:
-- **Conjuntos y Relaciones**: Operaciones básicas y su uso en programación.
-- **Funciones**: Concepto de función, funciones inyectivas, sobreyectivas y biyectivas.
-- **Lógica Proposicional**: Operadores lógicos, tablas de verdad y condicionales en Python.
+- **Conjuntos y Relaciones**: Definición, operaciones y su aplicación en estructuras de datos.
+- **Funciones**: Tipos de funciones (inyectivas, sobreyectivas, biyectivas) y su uso en modelado de datos.
+- **Lógica Proposicional**: Operadores lógicos, tablas de verdad, expresiones condicionales y su implementación en Python.
 
 ## 🎯 **Objetivos**  
 ✅ Comprender el uso de **conjuntos, relaciones y funciones** en programación.  
-✅ Aprender los **fundamentos de la lógica proposicional**.  
-✅ Aplicar estos conceptos en Python con ejemplos prácticos.  
-
-## 📌 **Ejercicios**  
-📝 Define un conjunto en Python y realiza operaciones de unión e intersección.  
-📝 Implementa una función que determine si un número es parte de un conjunto.  
-📝 Crea una función que evalúe expresiones lógicas en Python.  
+✅ Aprender los **fundamentos de la lógica proposicional** y su aplicación en Python.  
+✅ Aplicar estos conceptos en problemas computacionales y análisis de datos.  
 
 ---
 
-📌 **Siguiente semana: Álgebra Lineal y Aplicaciones Computacionales**  
+📌 **Siguiente semana: Álgebra Lineal**  
+
 
