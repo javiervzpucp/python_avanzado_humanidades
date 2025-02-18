@@ -99,9 +99,9 @@ Tarea 3: Construcción de un mapa interactivo con datos históricos.
 
 ---
 
-### Semanas 11-13: IA en Humanidades y Proyecto Final
+### Semanas 11-14: IA en Humanidades y Proyecto Final
 
-#### Semana 11: Modelos de Lenguaje y IA en Humanidades
+#### Semanas 11-12: Modelos de Lenguaje y IA en Humanidades
 
 Los estudiantes exploran el uso de IA y modelos de lenguaje en proyectos aplicados.
 
@@ -109,7 +109,7 @@ Los estudiantes exploran el uso de IA y modelos de lenguaje en proyectos aplicad
 - Entrenamiento y ajuste de modelos con Hugging Face.
 - Aplicación: Chatbots para análisis y recuperación de información.
 
-#### Semana 12: Proyecto Final
+#### Semanas 13-14: Proyecto Final
 
 - Desarrollo de un proyecto aplicado de humanidades digitales.
 - Uso de técnicas avanzadas vistas en el curso.
