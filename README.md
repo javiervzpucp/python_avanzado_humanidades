@@ -1,11 +1,13 @@
 # 📌 Python Avanzado para Humanidades
+**Autor:** Javier Vera Zúñiga  
+Departamento de Humanidades, PUCP  
 
-## 📖 Descripción
+## Descripción
 Este curso es la continuación de **Python para Humanidades** y está diseñado para profundizar en el uso de Python en el análisis de datos, estructuras avanzadas, algoritmos y aplicaciones en Humanidades Digitales.  
 
 ---
 
-## Temario
+## 📂 Estructura del Curso  
 
 - Duración: 12 semanas
 - Enfoque: Profundizar en programación, matemáticas discretas, álgebra lineal y aplicaciones avanzadas en humanidades digitales.
