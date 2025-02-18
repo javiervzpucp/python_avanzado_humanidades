@@ -7,9 +7,9 @@ Este curso es la continuación de **Python para Humanidades** y está diseñado 
 
 ## Temario Completo – Python Avanzado para Humanidades
 
-    - Duración: 12 semanas
-    - Enfoque: Profundizar en programación, matemáticas discretas, álgebra lineal y aplicaciones avanzadas en humanidades digitales.
-    - Estructura: Clases teóricas + ejercicios prácticos + proyectos aplicados.
+- Duración: 12 semanas
+- Enfoque: Profundizar en programación, matemáticas discretas, álgebra lineal y aplicaciones avanzadas en humanidades digitales.
+- Estructura: Clases teóricas + ejercicios prácticos + proyectos aplicados.
 
 ### Semanas 1-4: Fundamentos Matemáticos y Algoritmos
 Las primeras 4 semanas construyen las bases matemáticas necesarias para la programación avanzada.
