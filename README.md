@@ -1,11 +1,11 @@
-# 📌 Curso Avanzado de Python para Humanidades
+# 📌 Python Avanzado para Humanidades
 
 ## 📖 Descripción
 Este curso es la continuación de **Python para Humanidades** y está diseñado para profundizar en el uso de Python en el análisis de datos, estructuras avanzadas, algoritmos y aplicaciones en Humanidades Digitales.  
 
 ---
 
-## Temario Completo – Python Avanzado para Humanidades
+## Temario
 
 - Duración: 12 semanas
 - Enfoque: Profundizar en programación, matemáticas discretas, álgebra lineal y aplicaciones avanzadas en humanidades digitales.
