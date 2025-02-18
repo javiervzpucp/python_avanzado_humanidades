@@ -3,85 +3,115 @@
 ## 📖 Descripción
 Este curso es la continuación de **Python para Humanidades** y está diseñado para profundizar en el uso de Python en el análisis de datos, estructuras avanzadas, algoritmos y aplicaciones en Humanidades Digitales.  
 
-El curso es **100% práctico** e incluye **ejercicios** y **proyectos aplicados** en cada sección.
+---
+
+## Temario Completo – Python Avanzado para Humanidades
+
+    - Duración: 12 semanas
+    - Enfoque: Profundizar en programación, matemáticas discretas, álgebra lineal y aplicaciones avanzadas en humanidades digitales.
+    - Estructura: Clases teóricas + ejercicios prácticos + proyectos aplicados.
+
+### Semanas 1-4: Fundamentos Matemáticos y Algoritmos
+Las primeras 4 semanas construyen las bases matemáticas necesarias para la programación avanzada.
+
+#### Semana 1: Matemáticas Discretas
+
+- Conceptos fundamentales: lógica proposicional, álgebra booleana, cuantificadores.
+- Conjuntos, operaciones y relaciones.
+- Representación computacional de conjuntos y relaciones.
+- Aplicación: Búsquedas en corpus de textos y modelos semánticos.
+
+#### Semana 2: Álgebra Lineal I
+
+- Vectores y matrices: representación en Python con NumPy.
+- Operaciones básicas: suma, producto, trasposición.
+- Sistemas de ecuaciones lineales y su resolución.
+- Aplicación: Modelado y análisis de datos lingüísticos.
+
+#### Semana 3: Álgebra Lineal II
+
+- Autovalores y autovectores.
+- Transformaciones lineales y espacios vectoriales.
+- Métodos numéricos para humanidades.
+- Aplicación: Representación vectorial del significado en textos (Word Embeddings).
+
+#### Semana 4: Algoritmos y Complejidad
+
+🔹 Concepto de algoritmo y eficiencia computacional.
+🔹 Complejidad algorítmica (notación O grande).
+🔹 Algoritmos de búsqueda y ordenamiento (Bubble Sort, QuickSort, etc.).
+🔹 Aplicación: Optimización en el procesamiento de textos.
+
+Tarea 1: Implementar un sistema de consultas optimizado para un corpus de documentos.
 
 ---
 
-## 📆 Temario
+### Semanas 5-7: Programación Avanzada
+Aquí los estudiantes profundizan en estructuras de datos, paradigmas de programación y técnicas más avanzadas.
 
-### 📍 Semanas 1-4: Fundamentos Matemáticos y Algoritmos
-#### 🔹 Semana 1: Introducción a Matemáticas Discretas
-- Teoría de conjuntos
-- Relaciones y funciones
-- Cardinalidad y equivalencia
-- Álgebra booleana
-- Aplicaciones en análisis de textos y datos
+#### Semana 5: Estructuras de Datos Avanzadas
 
-#### 🔹 Semana 2: Álgebra Lineal para Humanidades
-- Vectores y matrices
-- Operaciones matriciales en Python
-- Aplicaciones en redes semánticas y análisis de textos
+- Listas enlazadas, pilas y colas.
+- Diccionarios y árboles.
+- Aplicación: Análisis de redes en literatura y sociolingüística.
 
-#### 🔹 Semana 3: Algoritmos y Complejidad
-- ¿Qué es un algoritmo?
-- Complejidad computacional
-- Búsqueda y ordenamiento
-- Recursión y series numéricas
+#### Semana 6: Programación Funcional y Orientada a Objetos
 
-#### 🔹 Semana 4: Estructuras de Datos Avanzadas
-- Pilas y colas
-- Diccionarios y conjuntos avanzados
-- Árboles y grafos
-- Aplicaciones en modelado de conocimiento
+- Introducción a la programación funcional.
+- Map, Filter, Reduce y List Comprehensions.
+- Introducción a OOP.
+- Aplicación: Modelado de datos en proyectos de humanidades.
+
+##### Semana 7: Manejo Avanzado de Archivos
+
+- Lectura y escritura en diferentes formatos: XML, JSON, CSV.
+- Expresiones regulares y procesamiento de texto estructurado.
+- Aplicación: Extracción de datos de archivos históricos y digitalizados.
+
+Tarea 2: Crear un script para analizar archivos históricos de bibliotecas digitales.
 
 ---
 
-### 📍 Semanas 5-8: Programación Avanzada y Manejo de Datos
-#### 🔹 Semana 5: Programación Funcional y Modularidad
-- Funciones avanzadas y recursividad
-- Programación funcional en Python
-- Modularidad y organización del código
+### Semanas 8-10: Aplicaciones en Humanidades Digitales
+Se introduce el uso de herramientas avanzadas para humanidades digitales.
 
-#### 🔹 Semana 6: Manejo Avanzado de Datos
-- Archivos CSV, JSON y XML
-- Expresiones regulares
-- Limpieza y estructuración de datos
-- Aplicaciones en humanidades digitales
+#### Semana 8: Análisis de Texto y NLP
 
-#### 🔹 Semana 7: Análisis de Texto con Python
-- Tokenización y procesamiento de texto
-- Expresiones regulares en texto
-- Modelado semántico y análisis de sentimientos
+- Procesamiento de texto con NLTK y spaCy.
+- Análisis de frecuencia y extracción de palabras clave.
+- Aplicación: Análisis estilométrico en literatura.
 
-#### 🔹 Semana 8: Visualización de Datos y Redes Semánticas
-- Introducción a matplotlib y seaborn
-- Representación de datos en grafos
-- Análisis de redes semánticas en humanidades
+##### Semana 9: Visualización de Datos en Humanidades
 
----
+- Introducción a Matplotlib y Seaborn.
+- Creación de gráficos de datos textuales y redes semánticas.
+- Aplicación: Visualización de relaciones entre autores y obras.
 
-### 📍 Semanas 9-11: Inteligencia Artificial y Modelos de Lenguaje
-#### 🔹 Semana 9: Machine Learning para Humanidades
-- Introducción al aprendizaje automático
-- Modelos supervisados y no supervisados
-- Aplicaciones en clasificación de textos
+Semana 10: Geodatos y Mapas en Humanidades
 
-#### 🔹 Semana 10: Proyectos Avanzados en Humanidades Digitales
-- Análisis de imágenes y visualización
-- Uso de APIs de IA
-- Generación de contenido con modelos de lenguaje
+- Introducción a GeoPandas y cartografía computacional.
+- Mapeo de eventos históricos y movimientos culturales.
+- Aplicación: Cartografía digital en proyectos de historia y arqueología.
 
-#### 🔹 Semana 11: Modelos de Lenguaje y LLMs
-- Uso de modelos preentrenados para texto
-- Generación y procesamiento de lenguaje natural
-- Aplicaciones en digitalización y humanidades
+Tarea 3: Construcción de un mapa interactivo con datos históricos.
 
 ---
 
-### 📍 Semana 12: Proyecto Final
-- Integración de conocimientos
-- Desarrollo de un proyecto aplicado a humanidades digitales
-- Presentación de resultados
+### Semanas 11-13: IA en Humanidades y Proyecto Final
+
+#### Semana 11: Modelos de Lenguaje y IA en Humanidades
+
+Los estudiantes exploran el uso de IA y modelos de lenguaje en proyectos aplicados.
+
+- Introducción a modelos de lenguaje (LLMs).
+- Entrenamiento y ajuste de modelos con Hugging Face.
+- Aplicación: Chatbots para análisis y recuperación de información.
+
+#### Semana 12: Proyecto Final
+
+- Desarrollo de un proyecto aplicado de humanidades digitales.
+- Uso de técnicas avanzadas vistas en el curso.
+- Presentación y documentación del proyecto.
 
 ---
 
